@@ -1,3 +1,3 @@
-def position_taken(string)
-  if string=" "
+def position_taken(board,index)
+  if index=" "
     "false"
